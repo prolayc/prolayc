@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [lightning-web-components](https://github.com/trailheadapps/lwc-recipes)
 - 🌱 I’m currently learning AWS, Azure, GCP, Salesforce
-- 💬 Ask me about Salesforce, AWS
+- 💬 Ask me about Salesforce, AWS, Azure, GCP
 - 📫 How to reach me: [@prolayc](https://twitter.com/prolayc)
 
 </p>
